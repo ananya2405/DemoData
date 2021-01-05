@@ -1,12 +1,13 @@
 for ((i=1, i <= 200 ; i++))
 do
+wget https://www.udemy.com
 wget https://www.facebook.com
+wget https://www.google.com
+wget https://www.github.com
+wget https://www.gmail.com
+wget https://www.yahoo.com
+wget https://www.instagram.com
 wget https://www.wikipedia.org
-wget https://www.facebook.com
-wget https://www.facebook.com
-wget https://www.facebook.com
-wget https://www.facebook.com
-wget https://www.facebook.com
-wget https://www.wikipedia.org
+wget https://www.bbc.org
 done
 
